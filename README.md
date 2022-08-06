@@ -1,4 +1,4 @@
-# Project 05 | HTML and CSS | Company Home Page 
+# Project 09 | HTML and CSS | Company Home Page 
 
 
 By prajwal
@@ -20,17 +20,18 @@ By prajwal
 
 ---
 
-![myproject](./assets/ss4.png)
+![myproject](./screen-shots/01.png)
+
+![myproject](./screen-shots/02.png)
 
 
-[ <img src= "https://img.shields.io/badge/Go LiVE-1DA1F?style=for-the-badge&logo=&logoColor=white" />](https://project04-ineuron-hc.netlify.app/) 
+[ <img src= "https://img.shields.io/badge/Go LiVE-1DA1F?style=for-the-badge&logo=&logoColor=white" />](https://project09-ineuron-hc.netlify.app/) 
 
 
 ---
 
 ## What I learned from this Project
 
-- I learned How to use svg image
-- I learned how inline-block propertie work.
+- I learned about how to create multipage website.
   ## Time required for finishing the peoject
-- It takes me near about 3 hours to complete the project.
+- It takes me near about 5 hours to complete the project.
