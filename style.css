@@ -195,6 +195,15 @@ nav .nav-item1 {
     font-size: .9rem;
   }
 
+  nav .nav-item-active {
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
 }
 
 
@@ -457,6 +466,14 @@ nav .nav-item1 {
     justify-content: center;
     flex-direction: column;
 
+  }
+
+  .download-email input {
+    background-color: #e9edff;
+    padding: 10px 18px 6px 11px;
+    border-radius: 20px;
+    border: 0px solid;
+    margin-bottom: 10px;
   }
 }
 
